@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-add-react-displayname-babel7",
-  "version": "0.0.5",
+  "version": "0.0.6-beta",
   "description": "Automatically add displayName to all your components. Fork for babel 7",
   "main": "index.js",
   "devDependencies": {
